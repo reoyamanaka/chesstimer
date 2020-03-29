@@ -39,7 +39,7 @@
 
 ## About The Project
 <p align="left">
-  <img src="images/demo_screenshot0.png" width="600" height="260">
+  <img src="images/demo_screenshot0.png" width="729" height="330">
 </p>
 
 ### Built With
