@@ -56,7 +56,7 @@ To get a local copy up and running follow these simple steps.
 
 * wxPython
 ```sh
-pip install wxpython
+pip install wxPython
 ```
 
 ### Installation
@@ -65,9 +65,9 @@ pip install wxpython
 ```sh
 git clone https://github.com/reoyamanaka/chesstimer.git
 ```
-2. Install wxPython module
+2. Install requirements
 ```sh
-pip install wxpython
+pip install -r requirements.txt
 ```
 
 ## Usage
